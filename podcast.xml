@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>AI Podcast</title>
+    <link>https://shyamr-12.github.io/podcast-host/</link>
+    <description> AI-generated podcast</description>
+
+    <item>
+      <title>Episode 1</title>
+      <description>This is Episode 1 generated automatically.</description>
+      <enclosure url="https://shyamr-12.github.io/podcast-host/episode1.mp3" length="12345" type="audio/mpeg"/>
+      <guid>episode1</guid>
+      <pubDate>Mon, 10 Feb 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
